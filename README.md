@@ -2,7 +2,7 @@
 AL-QURAN Data with Translation Bahasa Indonesia, English, and Arabic Latin.
 
 ## Example Response:
-*al-quran.json*
+**al-quran.json**
 ```json
 {
   "features": [
@@ -28,6 +28,7 @@ AL-QURAN Data with Translation Bahasa Indonesia, English, and Arabic Latin.
     }
   ]
 }
+```
 
 ## Data Source
 - https://quranapi.idn.sch.id
