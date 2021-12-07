@@ -1,5 +1,6 @@
 # Al-Quran-ID-Json
 *Assalamu'alaikum.*
+
 AL-QURAN Data with Translation Bahasa Indonesia, English, and Arabic Latin.
 
 ## Features
@@ -53,9 +54,7 @@ AL-QURAN Data with Translation Bahasa Indonesia, English, and Arabic Latin.
 ```
 
 ## Data Source
-https://quranapi.idn.sch.id
-<details>
-<summary>from</summary>
+https://quranapi.idn.sch.id <details> <summary>view</summary>
 https://alquran.cloud/ (Surah, Ayah, and English Translation)
 
 https://quran.kemenag.go.id/ (Indonesia Translation)
