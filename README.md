@@ -57,6 +57,7 @@ https://quranapi.idn.sch.id
 <details>
 <summary>from</summary>
 https://alquran.cloud/ (Surah, Ayah, and English Translation)
+
 https://quran.kemenag.go.id/ (Indonesia Translation)
 </details>
 
