@@ -48,7 +48,7 @@ AL-QURAN Data with Translation Bahasa Indonesia, English, and Arabic Latin.
 
 ## Data Source
 <details>
-<summary>quranapi.idn.sch.id</summary>
-    - https://alquran.cloud/ (Surah, Ayah, and English Translation)
-    - https://quran.kemenag.go.id/ (Indonesia Translation)
+<summary>quranapi.idn.sch.id</summary> https://quranapi.idn.sch.id
+https://alquran.cloud/ (Surah, Ayah, and English Translation)
+https://quran.kemenag.go.id/ (Indonesia Translation)
 </details>
