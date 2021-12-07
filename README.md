@@ -1,5 +1,11 @@
 # Al-Quran-ID-Json
+*Assalamu'alaikum.*
 AL-QURAN Data with Translation Bahasa Indonesia, English, and Arabic Latin.
+
+## Features
+- Translation Bahasa Indonesia
+- Translation English
+- **Translation Arabic Latin**
 
 ## Example Response:
 **al-quran.json**
@@ -48,7 +54,16 @@ AL-QURAN Data with Translation Bahasa Indonesia, English, and Arabic Latin.
 
 ## Data Source
 <details>
-<summary>quranapi.idn.sch.id</summary> https://quranapi.idn.sch.id
+https://quranapi.idn.sch.id <summary>from</summary>
 https://alquran.cloud/ (Surah, Ayah, and English Translation)
 https://quran.kemenag.go.id/ (Indonesia Translation)
 </details>
+
+## Recomended Fonts Arabic
+[Scheherazade New](https://fonts.google.com/specimen/Scheherazade+New?query=s&category=Serif&subset=arabic)
+[Amiri](https://fonts.google.com/specimen/Amiri?query=s&category=Serif&subset=arabic)
+
+## Message
+***If you have Problem or Request Features in this API, you Can Email: [mail.brianadi@gmail.com](mailto:mail.brianadi@gmail.com).***
+
+So Thanks and *Wassalamu'alaikum.*
