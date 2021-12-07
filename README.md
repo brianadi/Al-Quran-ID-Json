@@ -53,14 +53,16 @@ AL-QURAN Data with Translation Bahasa Indonesia, English, and Arabic Latin.
 ```
 
 ## Data Source
+https://quranapi.idn.sch.id
 <details>
-https://quranapi.idn.sch.id <summary>from</summary>
+<summary>from</summary>
 https://alquran.cloud/ (Surah, Ayah, and English Translation)
 https://quran.kemenag.go.id/ (Indonesia Translation)
 </details>
 
 ## Recomended Fonts Arabic
 [Scheherazade New](https://fonts.google.com/specimen/Scheherazade+New?query=s&category=Serif&subset=arabic)
+
 [Amiri](https://fonts.google.com/specimen/Amiri?query=s&category=Serif&subset=arabic)
 
 ## Message
